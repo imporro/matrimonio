@@ -20,10 +20,11 @@ html {
 body {
   margin: 0;
   padding: 0;
+  background: #313644;
 }
-		body {background: #313644;}
 #container_container {
-			padding: 20px;
+	position: relative;
+	padding: 20px;
 }
 		#container {
 			position: fixed;
@@ -132,8 +133,11 @@ p {
 			#content {
 				position: relative;
 				margin: 0 auto;
-				max-width: 500px;
+				max-width: 320px;
 				text-align: center;
+			}
+			img {
+				max-width: 320px;
 			}
 			h1 {
 			font-family: 'Pinyon Script', cursive;
@@ -181,8 +185,9 @@ p {
 	<p>Dalle 18.00 in avanti <br/>ti aspettiamo per festeggiare insieme presso<br/>Relais 23 - Regione San Colombano, 25<br/>14043 Castelnuovo Belbo AT</p>
 	<p class="extramargin">R.S.V.P.<br/>Conferma entro il 15 Aprile 2021</p>
 </div>
+<div id="ribbon"></div>
 <div id="container_container">
-	<div id="ribbon"></div>
+	
 <div id="container"></div>
 </div>
 </body>
