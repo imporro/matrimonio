@@ -1,0 +1,167 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Body Border</title>
+<link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width=device-width">
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital@0;1&display=swap" rel="stylesheet">
+<style>
+		/* ---- reset ---- */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+		body {background: #313644;}
+#container_container {
+			padding: 20px;
+}
+		#container {
+			position: fixed;
+			top:0;
+			bottom:0;
+			right:0;
+			left:0;
+			width: 100%;
+			height: 100%;
+			border-top: 329px solid blue;
+			border-right: 201px solid blue;
+			border-bottom: 329px solid blue;
+			border-left: 201px solid blue;
+			border-image: url(img/frame2.svg) 329 201 329 201 round;
+			overflow: auto;
+			z-index: 100;
+}
+#ribbon {
+			position: fixed;
+			top: 0;
+			margin-left: auto;
+			margin-right: auto;
+			left: 0;
+			right: 0;
+			text-align: center;
+			background-image: url("img/Ribbon.svg");
+			background-repeat: no-repeat;
+			height: 60px;
+			width:49px;
+			z-index: 101;
+}
+		#content {
+			position: relative;
+			margin: 0 auto;
+			max-width: 960px;
+			text-align: center;
+}
+h1 {
+	font-family: 'Pinyon Script', cursive;
+	color:#D1A138;
+	font-size: 140px;
+	font-weight: 400;
+	margin-top: 30vh;
+}
+	span.regular{
+		font-size: 28px;
+		font-family: 'Raleway', sans-serif;
+		font-style: italic;
+		font-weight: 400;
+		color:#D1A138;
+}
+h2{
+		font-size: 28px;
+		font-family: 'Raleway', sans-serif;
+		font-style: italic;
+		font-weight: 400;
+		color:#D1A138;
+		margin-bottom: 30vh;
+}
+h3 {
+	font-family: 'Pinyon Script', cursive;
+	color:#D1A138;
+	font-size: 69px;
+	font-weight: 400;
+}
+h4{
+		font-size: 16px;
+		font-family: 'Raleway', sans-serif;
+		font-style: italic;
+		font-weight: 400;
+		color:#D1A138;
+}
+p {
+	font-size: 30px;
+	line-height: 51px;
+	font-family: 'Raleway', sans-serif;
+		font-style: italic;
+		font-weight: 400;
+		color:#D1A138;
+		margin-bottom: 20px;
+}
+.extramargin {
+	margin-bottom: 100px;
+}
+		@media 
+		
+		/* Fairly small screens including iphones */
+		only screen and (max-width: 500px)
+
+		{
+			#container {
+			position: fixed;
+			top:0;
+			bottom:0;
+			right:0;
+			left:0;
+			width: 100%;
+			height: 100%;
+			border-top: 165px solid blue;
+			border-right: 100px solid blue;
+			border-bottom: 165px solid blue;
+			border-left: 100px solid blue;
+			border-image: url(img/frame3.svg) 165 100 165 100 round;
+			overflow: auto;
+		}
+		h1 {
+		font-family: 'Pinyon Script', cursive;
+		color:#D1A138;
+		font-size: 60px;
+		font-weight: 400;
+		margin-top: 30vh;
+		}
+		}
+		
+		/* iPads */
+		only screen and (min-device-width: 768px) and (max-device-width: 1024px) 
+		
+		{
+			#top, #bottom, #left, #right { display: none; }
+		}
+	</style>
+
+</head>
+<body>
+<div id="content">
+<h1>Fabrizio <span class="regular">e</span> Adriana</h1>
+<h2>Sono felici di annunciare il loro matrimonio</h2>
+<img src="img/domatore_leonessa.png">
+<h3>“Che l'amore è poco,<br/>è fatto di stracci,<br/>è un filo di fuoco tra i ghiacci”</h3>
+<img src="img/bacio.png">
+<h3>“Che l'amore è tutto,<br/>è un furto di baci,<br/>è un filo di vento tra braci”</h3>
+<h4 class="extramargin">Totò Zingaro, "Mia figlia di vento e di sale"</h2>
+	<p>Dalle 18.00 in avanti <br/>ti aspettiamo per festeggiare insieme presso<br/>Relais 23 - Regione San Colombano, 25<br/>14043 Castelnuovo Belbo AT</p>
+	<p class="extramargin">R.S.V.P.<br/>Conferma entro il 15 Aprile 2021</p>
+</div>
+<div id="container_container">
+	<div id="ribbon"></div>
+<div id="container"></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="204px" height="332px" viewBox="0 0 204 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>top-right</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frame_1" transform="translate(-354.000000, 2.000000)" stroke="#D1A138">
+            <g id="top-right" transform="translate(455.500000, 164.500000) scale(-1, 1) translate(-455.500000, -164.500000) translate(355.000000, 0.000000)">
+                <rect id="Rectangle" stroke-width="2" x="17.2814773" y="24" width="7.98776186" height="8"></rect>
+                <polygon id="Rectangle-Copy" stroke-width="2" transform="translate(16.976768, 317.161499) rotate(-315.000000) translate(-16.976768, -317.161499) " points="12.9767681 313.161499 20.970649 313.167618 20.9767681 321.161499 12.9828871 321.15538"></polygon>
+                <rect id="Rectangle" stroke-width="2" x="25.2692392" y="16" width="7.98776186" height="8"></rect>
+                <path d="M201,0 L50.9247559,0.161499123 C47.5071521,30.6743981 29.0725259,45.1965907 0.304709263,48.7156023 L-1.13512923e-13,329" id="Path" stroke-width="2"></path>
+                <path d="M65.9018094,0.161499123 C61.4526473,39.7526461 37.453774,58.5955053 0.00277412054,63.1614991" id="Path" stroke-width="2"></path>
+                <path d="M57.9140476,0.161499123 C54.0041778,35.3536298 32.9142589,52.102838 0.00277412054,56.1614991" id="Path" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></path>
+                <line x1="48.7332896" y1="41.5" x2="154.571134" y2="90.5" id="Line" stroke-width="2"></line>
+                <line x1="53.2264057" y1="36" x2="181.030595" y2="48" id="Line-Copy" stroke-width="2"></line>
+                <line x1="58.2187568" y1="28" x2="104.148388" y2="16" id="Line-Copy" stroke-width="2"></line>
+                <line x1="60.2156973" y1="22" x2="74.1942805" y2="16" id="Line-Copy" stroke-width="2"></line>
+                <line x1="44.7394087" y1="45.5" x2="129.609378" y2="130.5" id="Line-2" stroke-width="2"></line>
+                <line x1="40.2462927" y1="49" x2="100.653742" y2="176.5" id="Line-3" stroke-width="2"></line>
+                <line x1="35.2539415" y1="52" x2="53.2264057" y2="253" id="Line-3" stroke-width="2"></line>
+                <line x1="28.2646499" y1="56" x2="17.2814773" y2="97" id="Line-3" stroke-width="2"></line>
+                <line x1="31.7592957" y1="55.5" x2="17.2814773" y2="229" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="37.7501171" y1="51.5" x2="80.6843371" y2="208.5" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="43.7409385" y1="48.5" x2="115.630795" y2="151.5" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="47.7348194" y1="44.5" x2="140.592551" y2="109.5" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="51.7287003" y1="38.5" x2="166.552777" y2="70.5" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="56.7210515" y1="31.5" x2="200.500765" y2="21.5" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="21.2753583" y1="59" x2="17.2814773" y2="72" id="Line-3" stroke-width="2"></line>
+                <path d="M17.2814773,45.0448913 L17.2814773,24 L25.2692392,24 L25.2692392,16 L47.2923672,16 M62.7592527,16 L200.923673,16 L17.2814773,310.5342 L17.2814773,60.0555722" id="Shape" stroke-width="2" stroke-linejoin="bevel"></path>
+                <ellipse id="Oval" fill="#D1A138" cx="7.29677501" cy="39" rx="1.99694046" ry="2"></ellipse>
+                <ellipse id="Oval" fill="#D1A138" cx="41.2447629" cy="7" rx="1.99694046" ry="2"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

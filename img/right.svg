@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="81px" viewBox="0 0 16 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frame_1" transform="translate(-531.000000, -323.000000)" stroke="#D1A138" stroke-width="2">
+            <g id="right" transform="translate(533.343146, 323.000000)">
+                <line x1="5.65685425" y1="-2.30610487e-14" x2="5.65685425" y2="35" id="Line-4-Copy"></line>
+                <line x1="5.65685425" y1="46" x2="5.65685425" y2="81" id="Line-4-Copy-3"></line>
+                <polygon id="Rectangle-Copy-4" transform="translate(5.656854, 40.549105) rotate(-315.000000) translate(-5.656854, -40.549105) " points="1.65685425 36.5491054 9.65685425 36.5491054 9.65685425 44.5491054 1.65685425 44.5491054"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

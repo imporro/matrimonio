@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="331px" viewBox="0 0 226 331" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bottom-left</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frame_1" transform="translate(2.000000, -397.000000)" stroke="#D1A138">
+            <g id="bottom-left" transform="translate(112.000000, 561.500000) scale(1, -1) translate(-112.000000, -561.500000) translate(0.000000, 397.000000)">
+                <rect id="Rectangle" stroke-width="2" x="17.3049615" y="23.8633903" width="7.99990077" height="8.00835268"></rect>
+                <polygon id="Rectangle-Copy" stroke-width="2" transform="translate(17.304961, 317.169307) rotate(-315.000000) translate(-17.304961, -317.169307) " points="13.3007851 313.165131 21.3049119 313.169357 21.3091378 321.173484 13.3050111 321.169258"></polygon>
+                <rect id="Rectangle" stroke-width="2" x="25.3048622" y="15.8550376" width="7.99990077" height="8.00835268"></rect>
+                <path d="M224,0 L50.6969734,0 C47.2741759,30.5447571 28.8115348,45.0821121 0,48.6047978 L0.30239399,329" id="Path" stroke-width="2"></path>
+                <path d="M65.9991814,2.84513841e-14 C61.5432579,39.6324835 37.5079138,58.4950163 5.68427138e-14,63.0657774" id="Path" stroke-width="2"></path>
+                <path d="M57.9992806,2.84513841e-14 C54.0834691,35.2288742 32.9615,51.99557 5.68427138e-14,56.0584688" id="Path" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></path>
+                <line x1="48.8045708" y1="41.3816618" x2="154.803256" y2="90.432822" id="Line" stroke-width="2"></line>
+                <line x1="53.304515" y1="35.8759193" x2="181.302927" y2="47.8884483" id="Line-Copy" stroke-width="2"></line>
+                <line x1="58.3044529" y1="27.8675666" x2="104.303882" y2="15.8550376" id="Line-Copy" stroke-width="2"></line>
+                <line x1="60.3044281" y1="21.8613021" x2="74.3042545" y2="15.8550376" id="Line-Copy" stroke-width="2"></line>
+                <line x1="44.8046204" y1="45.3858381" x2="129.803566" y2="130.474585" id="Line-2" stroke-width="2"></line>
+                <line x1="40.3046762" y1="48.8894924" x2="100.803926" y2="176.522613" id="Line-3" stroke-width="2"></line>
+                <line x1="35.3047382" y1="51.8926247" x2="53.304515" y2="253.102486" id="Line-3" stroke-width="2"></line>
+                <line x1="28.304825" y1="55.896801" x2="17.3049615" y2="96.9396085" id="Line-3" stroke-width="2"></line>
+                <line x1="31.8047816" y1="55.396279" x2="17.3049615" y2="229.077428" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="37.8047072" y1="51.3921026" x2="80.8041739" y2="208.556024" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="43.8046328" y1="48.3889704" x2="115.80374" y2="151.496511" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="47.8045832" y1="44.384794" x2="140.80343" y2="109.45266" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="51.8045336" y1="38.3785295" x2="166.803107" y2="70.4119403" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="56.8044715" y1="31.3712209" x2="200.802685" y2="21.3607801" id="Line-3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></line>
+                <line x1="21.3049119" y1="58.8999333" x2="17.3049615" y2="71.9135064" id="Line-3" stroke-width="2"></line>
+                <path d="M17.3049615,44.9302543 L17.3049615,23.8633903 L25.3048622,23.8633903 L25.3048622,15.8550376 L47.3614586,15.8550376 M62.851849,15.8550376 L201.226237,15.8550376 L17.3049615,310.696756 L17.3049615,59.9566076" id="Shape" stroke-width="2" stroke-linejoin="bevel"></path>
+                <ellipse id="Oval" fill="#D1A138" cx="7.3050855" cy="38.8790516" rx="1.99997519" ry="2.00208817"></ellipse>
+                <ellipse id="Oval" fill="#D1A138" cx="41.3046638" cy="6.84564085" rx="1.99997519" ry="2.00208817"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
